@@ -1,4 +1,4 @@
-# Summit: Resumo Automático de Reuniões do Google Meet
+# Summit: Resumo Automático de Reuniões
 
 O Summit é uma ferramenta que utiliza a API do Google e a inteligência artificial para gerar resumos automáticos das suas reuniões do Google Meet.
 
@@ -92,9 +92,15 @@ python main.py
 2. **Siga as instruções na tela**:
 - Autentique-se com sua conta do Google.
 
+![Authentication (1)](https://github.com/chulipinho/summit/assets/71055311/34d47571-298d-4581-9984-4342f0399d65)
+
 - Informe os emails dos destinatários que receberão os resumos.
 
+![2](https://github.com/chulipinho/summit/assets/71055311/26f155c1-1bb8-4585-9659-ed81c6ab93cf)
+
 **O Summit processará suas gravações de reuniões e enviará os resumos por email para os destinatários especificados.**
+
+![email](https://github.com/chulipinho/summit/assets/71055311/2d46bc15-a07e-4656-9670-bf6abcb8c99a)
 
 ## Como funciona
 
@@ -114,6 +120,8 @@ python main.py
 - **Envio via API do Gmail**: Os emails são enviados para os destinatários usando a API do Gmail.
 
 ## Observações
+
+- O Summit pode ser usado para qualquer plataforma de reunião. Basta armazenar as gravações no Google Drive.
 
 - O Summit está em desenvolvimento e novas funcionalidades serão adicionadas em breve.
 
