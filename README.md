@@ -127,13 +127,6 @@ python main.py
 
 - Se você encontrar algum problema, por favor, envie um relatório de bug no repositório do GitHub.
 
-## Contato
-
-Para obter mais informações sobre o Summit ou para relatar problemas, você pode entrar em contato conosco através dos seguintes canais:
-
-- **LinkedIn:** [Fellipe Machado](https://www.linkedin.com/in/fellipe-luz/)
-- **Email:** fellipe.luz.machado@gmail.com
-
 Agradecemos seu interesse no Summit!
 
 
